@@ -7,11 +7,4 @@ return [
         'dbname' => 'myapp',
         'charset'=> 'utf8mb4'
     ],
-     /*'services' => [
-        'prerender' => [
-            'token' => '',
-            'secret' => ''
-
-        ]
-    ],*/
 ];
