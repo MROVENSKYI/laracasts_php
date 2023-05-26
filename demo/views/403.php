@@ -6,4 +6,4 @@
             <p class="mt-4"><a href="/" class="text-blue underline ">go back home</a></p>
         </div>
     </main>
-<?php require('partials/foot.php') ?>
+<?php require('partials/footer.php') ?>

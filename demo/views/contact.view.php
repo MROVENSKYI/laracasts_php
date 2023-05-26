@@ -6,4 +6,4 @@
             <p>hello .welcome to the contact page.</p>
         </div>
     </main>
-<?php require('partials/foot.php') ?>
+<?php require('partials/footer.php') ?>

@@ -11,4 +11,4 @@
             <p class="mt-6"><a href="/notes/create" class="text-blue-500 hover:underline">create note</a></p>
           </div>
     </main>
-<?php require base_path('views/partials/foot.php') ?>
+<?php require base_path('views/partials/footer.php') ?>
